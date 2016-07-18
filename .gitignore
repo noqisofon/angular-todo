@@ -1,0 +1,13 @@
+# Emacs Tempolary Files
+*~
+\#*#
+
+# Log files
+*.log
+logs/
+
+# NPM Dependency Directory
+node_modules/
+
+# Bower Dependency Directory
+bower_modules/
